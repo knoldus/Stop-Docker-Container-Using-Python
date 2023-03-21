@@ -12,5 +12,5 @@ You can use this template for the list of stopped containers and it also will st
 
 2. Now you can run this file and all containers will be stopped and list.
 
-            python3 main.py
+            python3 container_stop.py
 
